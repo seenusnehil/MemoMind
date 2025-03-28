@@ -28,12 +28,12 @@ MemoMind is not just another to-do app—it’s your intelligent **AI assistant 
 
 ## **🛠 Tech Stack**  
 
-- 🚀 **Frontend:** React.js, Tailwind CSS  
-- ⚡ **Backend:** Node.js, Express.js  
-- 📦 **Database:** Firebase / MongoDB  
-- 🧠 **AI Model:** Open-source LLM (e.g., Mistral-7B / Phi-2)  
+- 🚀 **Frontend:** HTML, CSS and JavaScript 
+- ⚡ **Backend:** Node.js 
+- 📦 **Database:** Firebase 
+- 🧠 **AI Model:** Open-source LLM (Mistral-7B)  
 - 🔔 **Notifications:** Firebase Cloud Messaging (for web push) + Nodemailer (for emails)  
-- 🌍 **Deployment:** Vercel / Railway  
+- 🌍 **Deployment:** Vercel 
 
 ---
 
