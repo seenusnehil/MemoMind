@@ -56,10 +56,6 @@ Create a `.env` file and add the necessary API keys for Firebase, OpenAI/Mistral
 ### 4️⃣ **Run the Project**  
 ```sh
 npm run dev
-```
-🚀 Your MemoMind instance is now live on `localhost:3000`.  
-
----
 
 ## **📅 Roadmap & Future Enhancements**  
 
